@@ -22,6 +22,13 @@ WHEN I push the code from the develop branch to the main branch
 THEN I should see that another GitHub Action triggers and should automatically deploy to Render
 
 ## Screen Shots of Passing Test
+Example of dev.workflow.yml paasing all tests
+![alt text](<assets/dev branch test 1 Screenshot 2025-01-23.png>)
+![alt text](<assets/dev branch test 2 Screenshot 2025-01-23.png>)
+
+Example of main.workflows.yml passing all tests
+![alt text](<assets/main branch test Screenshot 2025-01-23.png>)
+
 
 ##
 https://ci-cd-github-ci-cd-setup.onrender.com
